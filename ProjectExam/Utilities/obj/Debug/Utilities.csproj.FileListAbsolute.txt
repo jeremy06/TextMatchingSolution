@@ -1,0 +1,7 @@
+C:\Users\jeremy.areola\Documents\Visual Studio 2013\Projects\ProjectExam\Utilities\bin\Debug\Utilities.dll
+C:\Users\jeremy.areola\Documents\Visual Studio 2013\Projects\ProjectExam\Utilities\bin\Debug\Utilities.pdb
+C:\Users\jeremy.areola\Documents\Visual Studio 2013\Projects\ProjectExam\Utilities\obj\Debug\Utilities.dll
+C:\Users\jeremy.areola\Documents\Visual Studio 2013\Projects\ProjectExam\Utilities\obj\Debug\Utilities.pdb
+C:\Users\jeremy.areola\Documents\Visual Studio 2013\Projects\ProjectExam\Utilities\bin\Debug\NLog.dll
+C:\Users\jeremy.areola\Documents\Visual Studio 2013\Projects\ProjectExam\Utilities\bin\Debug\NLog.xml
+C:\Users\jeremy.areola\Documents\Visual Studio 2013\Projects\ProjectExam\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache

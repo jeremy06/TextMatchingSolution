@@ -1,0 +1,50 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<script type="text/javascript" src="@System.Web.Optimization.BundleTable.Bundles.ResolveBundleUrl("~/bundles/exam")"></script>
+
+<h2>Page Exam</h2>
+
+<div class="container">
+    <div class="row">
+        
+       
+        <div class="col-sm-push-10">
+            <div class="form-horizontal">
+                <div class="">
+                    <label class="control-label" style="text-align:right;" for="">
+                        Main Text
+                    </label>
+                    <div class="">
+                        <textarea rows="4" class="col-lg-12" style="resize: none;" readonly="readonly">Polly put the kettle on, polly put the kettle on, polly put the kettle on we’ll all have tea</textarea>
+                    </div>
+                </div>
+                <div class="">
+                    <label class="control-label" style="text-align:right;" for="">
+                        Sub Text
+                    </label>
+                    <div class="">
+                        <input type="text" id="inputSubText" class="text-primary col-lg-12" tabindex="2" />
+                    </div>
+                </div>
+                <div class="">
+                    <label class="control-label" style="text-align:right;" for="">
+                        Output
+                    </label>
+                    <div class="">
+                        <input type="text" id="output" class="input-lg col-lg-12" tabindex="3" readonly="readonly" />
+                    </div>
+                </div>
+                <br/><br/>
+                <div class="pull-left">
+                    <input type="button" class="btn btn-info" id="btnSubmit" value="Submit"/>
+                    <input type="button" class="btn btn-default" id="btnCancel" value="Cancel" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
